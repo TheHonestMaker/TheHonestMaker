@@ -3,7 +3,7 @@
 <b>Who is "The Honest Maker"?</b><br>
 My name is Larry Bank and I have a mission to create projects and products that adhere to four main values:<br>
 <br>
-- Honesty: No exaggerated claims or unrealistic expectations; project examples will include info about the true difficulty level.<br>
+- Honesty: No exaggerated claims or unrealistic expectations; project examples include info about the true difficulty level.<br>
 - Utility: Each product solves a specific problem or provides a delightful feature.<br>
 - Open Source: All products are fully open source (both hardware and software) with detailed documentation, and plenty of examples.<br>
 - Affordability: All products are priced fairly and accessible to as wide an audience as possible<br>
